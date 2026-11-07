@@ -31,29 +31,16 @@ Buscando fortalecer competências em Análise de Dados, Business Intelligence e 
 
 ### 🚀 Em andamento
 
-#### 📊 Formação de Analista de Dados – Educadados
+- 📊 Formação de Analista de Dados – Educadados
+  - Power Query, Modelagem de Dados e DAX Intermediário
 
-- Power Query
-- Modelagem de Dados
-- DAX Intermediário
-- Dashboards e Business Intelligence
-
-#### 📈 Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
-
-- Power BI
-- ETL e Transformação de Dados
-- Modelagem de Dados
-- Medidas DAX
-- Visualização de Dados
+- 📈 Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
+  - ETL, Modelagem de Dados, DAX e Dashboards
 
 ### ✅ Concluído
 
-#### 📗 Santander – Excel com Inteligência Artificial (DIO)
-
-- Simulador de Investimentos em FIIs
-- Organizador de Declaração de Imposto de Renda
-- Dashboard Interativo de Vendas Xbox
- 
+- 📗 Santander – Excel com Inteligência Artificial (DIO)
+- 
 
 ### 📌 Principais Repositórios & Portfólios
 
