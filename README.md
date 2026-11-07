@@ -1,4 +1,5 @@
 # Olá, sou Silvana Campos! 👋
+💻 Tecnologia da Informação | 📊 Dados & Business Intelligence | 🔐 Segurança da Informação
 
 Sou profissional de Tecnologia da Informação com sólida experiência em Suporte Técnico, Infraestrutura e Sustentação de Sistemas. 
 
@@ -24,16 +25,35 @@ Atualmente estou ampliando meus conhecimentos em *Power BI, Excel, SQL e Anális
 
 ---
 
-### 📚 Atualmente Estudando
+## 📚 Atualmente Estudando
 
-### Cursos 
-🚀 Em andamento
- * Formação Analista de Dados – Educadados
- * Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
+Buscando fortalecer competências em Análise de Dados, Business Intelligence e Visualização de Dados por meio de projetos práticos e desafios aplicados.
 
-✅ Concluído
- * Santander – Excel com Inteligência Artificial (DIO)
+### 🚀 Em andamento
 
+#### 📊 Formação de Analista de Dados – Educadados
+
+- Power Query
+- Modelagem de Dados
+- DAX Intermediário
+- Dashboards e Business Intelligence
+
+#### 📈 Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
+
+- Power BI
+- ETL e Transformação de Dados
+- Modelagem de Dados
+- Medidas DAX
+- Visualização de Dados
+
+### ✅ Concluído
+
+#### 📗 Santander – Excel com Inteligência Artificial (DIO)
+
+- Simulador de Investimentos em FIIs
+- Organizador de Declaração de Imposto de Renda
+- Dashboard Interativo de Vendas Xbox
+ 
 
 ### 📌 Principais Repositórios & Portfólios
 
