@@ -24,29 +24,30 @@ Atualmente estou ampliando meus conhecimentos em *Power BI, Excel, SQL e Anális
 
 ---
 
-**📚 Atualmente Estudando**
+### 📚 Atualmente Estudando
 
+### Cursos 
 🚀 Em andamento
  * Formação Analista de Dados – Educadados
  * Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
 
 ✅ Concluído
-  Santander – Excel com Inteligência Artificial (DIO)
+ * Santander – Excel com Inteligência Artificial (DIO)
 
 
 ### 📌 Principais Repositórios & Portfólios
 
 * 🟢 **[Santander - Excel com IA (DIO)](https://github.com/SilvanaCampos/santander-excel-com-ia-dio)**
-  * *Simulador de Investimentos em FIIs (Proj SIL)*
-  * *Organizador de Declaração de Imposto de Renda*
-  * *Dashboard Interativo de Vendas Xbox*
+  * 📈 *Simulador de Investimentos em FIIs (Proj SIL)*
+  * 🧾*Organizador de Declaração de Imposto de Renda*
+  * 🎮 *Dashboard Interativo de Vendas Xbox*
 
 * 🟡 **[Primeiros Passos em Power BI](https://github.com/SilvanaCampos/power-bi-primeiros-passos)**
   * *Projetos e exercícios práticos envolvendo Power Query, ETL, Modelagem de Dados, DAX e Business Intelligence.*
     
 * 🔵 **[Formação Analista de Dados - Educadados](https://github.com/SilvanaCampos/portfolio-powerbi-educadados)** *(Em breve/Atualizando)*
-  * *Tratamento avançado em Power Query, Modelagem Fato/Dimensão e Medidas DAX Intermediárias.*
-
+  * *Projetos práticos envolvendo em Power Query, Modelagem de Dados e Medidas DAX Intermediárias.*
+  
 ---
 📫 **Como me encontrar:** 
   
