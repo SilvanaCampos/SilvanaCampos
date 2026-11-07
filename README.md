@@ -2,7 +2,6 @@
 
 Sou profissional de Tecnologia da Informação com sólida experiência em Suporte Técnico, Infraestrutura e Sustentação de Sistemas. 
 
-
 Graduada em Ciência da Computação e pós-graduada em Segurança da Informação, atuo no desenvolvimento contínuo de competências em Dados, Business Intelligence e Cibersegurança.
 
 Atualmente estou ampliando meus conhecimentos em **Power BI, Excel, SQL e Análise de Dados**, buscando integrar minha bagagem técnica em TI à capacidade analítica necessária para transformar dados brutos em informações estratégicas para tomada de decisão.
@@ -28,7 +27,7 @@ Atualmente estou ampliando meus conhecimentos em **Power BI, Excel, SQL e Análi
 **📚 Atualmente Estudando**
 
 🚀 Em andamento
- * Formação de Analista de Dados – Educadados
+ * Formação Analista de Dados – Educadados
  * Santander Bootcamp Universia – Primeiros Passos em Power BI (DIO)
 
 ✅ Concluído
