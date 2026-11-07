@@ -24,8 +24,7 @@ Atualmente estou ampliando meus conhecimentos em *Power BI, Excel, SQL e Anális
 * **Cibersegurança:** Segurança da Informação, Fundamentos de Redes, Boas práticas de segurança
 
 ---
-
-## 📚 Atualmente Estudando
+## 🎓 Aprendizado e Desenvolvimento Profissional
 
 Buscando fortalecer competências em Análise de Dados, Business Intelligence e Visualização de Dados por meio de projetos práticos e desafios aplicados.
 
