@@ -4,9 +4,9 @@ Sou profissional de Tecnologia da Informação com sólida experiência em Supor
 
 Graduada em Ciência da Computação e pós-graduada em Segurança da Informação, atuo no desenvolvimento contínuo de competências em Dados, Business Intelligence e Cibersegurança.
 
-Atualmente estou ampliando meus conhecimentos em **Power BI, Excel, SQL e Análise de Dados**, buscando integrar minha bagagem técnica em TI à capacidade analítica necessária para transformar dados brutos em informações estratégicas para tomada de decisão.
+Atualmente estou ampliando meus conhecimentos em *Power BI, Excel, SQL e Análise de Dados*, buscando integrar minha experiência em TI à capacidade analítica necessária para transformar dados brutos em informações estratégicas para tomada de decisão.
 
-🎯 **Interesses Profissionais:** 
+🎯 **Áreas de Atuação e Interesse** 
 
 * Dados e Business Intelligence
 * Suporte N2/N3
@@ -42,16 +42,17 @@ Atualmente estou ampliando meus conhecimentos em **Power BI, Excel, SQL e Análi
   * *Dashboard Interativo de Vendas Xbox*
 
 * 🟡 **[Primeiros Passos em Power BI](https://github.com/SilvanaCampos/power-bi-primeiros-passos)**
-  * *Projetos e exercícios práticos focados em ETL, Modelagem e DAX.*
+  * *Projetos e exercícios práticos envolvendo Power Query, ETL, Modelagem de Dados, DAX e Business Intelligence.*
     
 * 🔵 **[Formação Analista de Dados - Educadados](https://github.com/SilvanaCampos/portfolio-powerbi-educadados)** *(Em breve/Atualizando)*
   * *Tratamento avançado em Power Query, Modelagem Fato/Dimensão e Medidas DAX Intermediárias.*
 
 ---
 📫 **Como me encontrar:** 
- 
-- 💼 LinkedIn: [Silvana Campos](https://www.linkedin.com/in/silvana-correia-campos/)
-- 📚 Lattes: [Currículo Lattes](http://lattes.cnpq.br/2543433148562408)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvana_Campos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvana-correia-campos/)
+
+  [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/2543433148562408)
 
 <!--
 **SilvanaCampos/SilvanaCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
