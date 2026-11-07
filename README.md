@@ -40,7 +40,7 @@ Buscando fortalecer competências em Análise de Dados, Business Intelligence e 
 ### ✅ Concluído
 
 - 📗 Santander – Excel com Inteligência Artificial (DIO)
-- 
+
 
 ### 📌 Principais Repositórios & Portfólios
 
