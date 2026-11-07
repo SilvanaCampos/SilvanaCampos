@@ -52,7 +52,7 @@ Buscando fortalecer competências em Análise de Dados, Business Intelligence e 
   * *Projetos e exercícios práticos envolvendo Power Query, ETL, Modelagem de Dados, DAX e Business Intelligence.*
     
 * 🔵 **[Formação Analista de Dados - Educadados](https://github.com/SilvanaCampos/portfolio-powerbi-educadados)** *(Em breve/Atualizando)*
-  * *Projetos práticos envolvendo em Power Query, Modelagem de Dados e Medidas DAX Intermediárias.*
+  * *Projetos práticos envolvendo Power Query, Modelagem de Dados e Medidas DAX Intermediárias.*
   
 ---
 📫 **Como me encontrar:** 
