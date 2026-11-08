@@ -10,7 +10,7 @@ Atualmente estou ampliando meus conhecimentos em *Power BI, Excel, SQL e Anális
 🎯 **Áreas de Atuação e Interesse** 
 
 * Dados e Business Intelligence
-* Suporte N2/N3
+* Suporte N1/N2
 * Infraestrutura e Segurança da Informação
 
 ---
@@ -51,7 +51,7 @@ Buscando fortalecer competências em Análise de Dados, Business Intelligence e 
 * 🟡 **[Primeiros Passos em Power BI](https://github.com/SilvanaCampos/power-bi-primeiros-passos)**
   * *Projetos e exercícios práticos envolvendo Power Query, ETL, Modelagem de Dados, DAX e Business Intelligence.*
     
-* 🔵 **[Formação Analista de Dados - Educadados](https://github.com/SilvanaCampos/portfolio-powerbi-educadados)** *(Em breve/Atualizando)*
+* 🔵 **[Formação Analista de Dados - Educadados](https://github.com/SilvanaCampos/portfolio-powerbi-educadados)** 
   * *Projetos práticos envolvendo Power Query, Modelagem de Dados e Medidas DAX Intermediárias.*
   
 ---
